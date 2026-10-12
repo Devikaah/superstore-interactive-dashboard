@@ -1,4 +1,4 @@
-Superstore Interactive Sales Dashboard
+## Superstore Interactive Sales Dashboard
 
 An interactive, responsive dashboard built to explore and analyze Superstore sales data. The project brings key business metrics, visualizations, and detailed records together in one place.
 
@@ -36,3 +36,7 @@ The objective of this project is to present business data in an accessible, inte
 ## Author
 
 Data Analytics Portfolio Project
+
+## overview
+![Dashboard](h1.png) 
+![](h2.png) ![](h3.png) ![](h4.png) 
